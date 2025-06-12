@@ -12,10 +12,12 @@ Pastikan kamu sudah meng-install:
 
 ```bash
 git clone https://github.com/username/project-name.git
-cd project-name
+
 ```
 ## 3.cd nama-folder-proyek
-
+```
+cd project-name
+```
 
 ## 4. Install Dependency
 ```
