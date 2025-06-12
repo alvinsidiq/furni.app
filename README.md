@@ -11,12 +11,12 @@ Pastikan kamu sudah meng-install:
 ## 2. Clone / Ekstrak Proyek
 
 ```bash
-git clone https://github.com/username/project-name.git
+https://github.com/alvinsidiq/furni.app.git
 
 ```
 ## 3.cd nama-folder-proyek
 ```
-cd project-name
+cd furni.app
 ```
 
 ## 4. Install Dependency
